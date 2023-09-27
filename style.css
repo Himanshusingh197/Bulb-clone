@@ -1,0 +1,16 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn{
+    padding: 10px;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius:5px ;
+    margin-top: 10px;
+    font-weight: bold;
+}
